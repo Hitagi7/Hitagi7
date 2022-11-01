@@ -1,4 +1,4 @@
-💬 **About**
+<h2><strong>💬 About</strong></h2>
 
 🏫 Learning:
 
