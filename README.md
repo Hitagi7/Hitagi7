@@ -1,15 +1,15 @@
-<h2><strong>💬 About</strong></h2>
+<h3><strong>💬 About</strong></h3>
 
-🏫 Learning:
+<h4>🏫 Learning:</h4>
 
   Computer Engineering | C language 
 
-🖥 Interest:
+<h4>🖥 Interest:</h4>
 
   Programming, Valorant, Overwatch 2, YouTube
 <hr>
 
-⭐ **Stats**
+<h3>⭐ Stats</h3>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Hitagi7&theme=jolly&highcontrast&show_icons=true&count_private=true)
 
