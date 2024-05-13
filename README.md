@@ -1,12 +1,5 @@
 <h3><strong>💬 About</strong></h3>
 
-<h4>🏫 Learning:</h4>
-
-  Computer Engineering | C language 
-
-<h4>🖥 Interest:</h4>
-
-  Programming, Valorant, Overwatch 2, YouTube
 <hr>
 
 <h3>⭐ Stats</h3>
