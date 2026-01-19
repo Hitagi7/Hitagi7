@@ -24,8 +24,6 @@ These are technologies that appear across your repositories or are common for Co
 - 🛠️ **Tools & Platforms:** Git, GitHub, VS Code  
 - 💻 **Interests:** Web development, Problem solving  
 
-> Tip: As you grow, replace this list with the exact tools and languages you actually use most often in your repos.
-
 ---
 
 ## Projects
