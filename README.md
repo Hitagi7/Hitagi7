@@ -1,6 +1,6 @@
 # Hi, I'm Louise (hitagi) 👋
 
-A 4th-year **Computer Engineering** student from the Philippines and currently a **Web Developer Intern** at **Focus Bear**. I'm passionate about building scalable web applications and mastering clean code practices.
+A 4th-year **Computer Engineering** student from the Philippines. I'm passionate about building scalable web applications and mastering clean code practices.
 
 ---
 
